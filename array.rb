@@ -12,10 +12,10 @@ students_names.push('Cardi B')
 puts students_names
 
 #array name ('what you want to add').push will add it to the array
-
+                                                        
 students_names.push('peri')
 students_names.push('post')
 puts students_names
 
-students_names << ('caitlin, hanna')
+students_names << ('hanna')
 puts students_names
