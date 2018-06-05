@@ -15,3 +15,4 @@ puts students_names
 
 students_names.push('peri')
 students_names.push('post')
+students_names
