@@ -18,4 +18,4 @@ students_names.push('post')
 puts students_names
 
 students_names << ('caitlin, hanna')
-puts sudents_names
+puts students_names
