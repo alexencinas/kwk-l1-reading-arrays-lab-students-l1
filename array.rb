@@ -5,5 +5,4 @@ students_names = ['sam', 'jess', 'ash', 'bob', 'carla']
 puts students_names
 
 #puts [name of your array] prints out the information in your array in the terminal 
-puts students_names[3]
-students_names[3]
+puts students_names[0]
