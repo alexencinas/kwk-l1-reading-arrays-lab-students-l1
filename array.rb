@@ -23,4 +23,4 @@ puts students_names
 # << allows oone add at a time
 pits students_names[2]
 
-puts students_names.sie
+puts students_names.size
