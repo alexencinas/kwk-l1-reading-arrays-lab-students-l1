@@ -10,3 +10,8 @@ puts students_names[0]
 #position 0 gives you the first value in the array 
 students_names.push('Cardi B')
 puts students_names
+
+#array name ('what you want to add').push will add it to the array
+
+students_names.push('peri')
+students_names.push('post')
