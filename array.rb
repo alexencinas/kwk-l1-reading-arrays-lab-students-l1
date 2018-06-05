@@ -16,3 +16,6 @@ puts students_names
 students_names.push('peri')
 students_names.push('post')
 puts students_names
+
+students_names << ('caitlin, hanna')
+puts sudents_names
